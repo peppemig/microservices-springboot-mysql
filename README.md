@@ -8,4 +8,4 @@ Features:
 - Service Registry (using Eureka Server) to keep track of all services
 - Actuator (for application health and metrics)
 - Resiliance4j (circuit breaker, retry mechanism and rate limiter)
-- Zipkin
+- Zipkin (in this case started from a jar file)
